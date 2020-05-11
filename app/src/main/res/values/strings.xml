@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RTS_fact</string>
+    <string name="inp_hint">Enter odd number to factorize</string>
+    <string name="button_fact">FACTORIZE</string>
+    <string name="lbtime">time in ms</string>
+    <string name="lbr1">r1</string>
+    <string name="lbr2">r2</string>
+</resources>
